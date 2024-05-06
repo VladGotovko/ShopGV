@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765508154482",
+    "project_id": "shopgv-de8a3",
+    "storage_bucket": "shopgv-de8a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765508154482:android:faf8fdd4e1851479cafeeb",
+        "android_client_info": {
+          "package_name": "com.GV.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0BlvRcW12AkM6NdRmJfTY77IFFxwUWY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
